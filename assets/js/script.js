@@ -11,7 +11,7 @@ createApp({
         return {
 
             message: 'Welcom Vue Js',
-            
+            image: './assets/img/Vue.js_Logo.png'
         }
     }
     
