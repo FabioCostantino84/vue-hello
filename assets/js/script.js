@@ -9,7 +9,8 @@ const { createApp } = Vue
 createApp({
     data() {
         return {
-            
+
+            message: 'Welcom Vue Js',
             
         }
     }
